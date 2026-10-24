@@ -1,0 +1,14 @@
+{
+  "name": "hooshopia",
+  "displayName": "Hooshopia Skills",
+  "version": "0.1.0",
+  "description": "Hooshopia skills for developers working with coding agents: idea to release, refactoring, testing, productivity and Persian content.",
+  "author": {
+    "name": "Mahdi Pakravan",
+    "url": "https://hooshopia.ir"
+  },
+  "homepage": "https://hooshopia.ir",
+  "repository": "https://github.com/hooshopia/skills",
+  "license": "MIT",
+  "keywords": ["skills", "persian", "farsi", "tdd", "code-review", "refactoring", "telegram"]
+}

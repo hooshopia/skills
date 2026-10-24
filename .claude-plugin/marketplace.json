@@ -1,0 +1,15 @@
+{
+  "name": "hooshopia",
+  "description": "اسکیل‌های هوشوپیا: هوش مصنوعی برای برنامه‌نویس‌ها",
+  "owner": {
+    "name": "Mahdi Pakravan",
+    "url": "https://hooshopia.ir"
+  },
+  "plugins": [
+    {
+      "name": "hooshopia",
+      "source": "./",
+      "description": "۱۷ اسکیل برای کار روزانهٔ برنامه‌نویس با ایجنت‌ها: از ایده تا انتشار، بازسازی کد، تست، بهره‌وری و محتوای فارسی"
+    }
+  ]
+}
